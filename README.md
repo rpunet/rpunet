@@ -1,6 +1,7 @@
 ### Welcome to my repositories 👋
 
 I'm an architect and programmer, currently working in software developement in 42 Madrid. 
+
 My work is mainly in C.
 
 ⚡ **Currently**
