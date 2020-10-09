@@ -8,7 +8,7 @@ writing a 3d render software to create images by using raytracing techniques.
 
 **My other spaces**
 - [LinkedIn](https://www.linkedin.com/in/ram%C3%B3n-corvillo-6b5b96a1/) profile with my architect experience
-- My [website](www.ramonpunet.com)
+- My [website](http://ramonpunet.com/index.html)
 
 
 
