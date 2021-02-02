@@ -11,6 +11,8 @@ writing a 3d render software to create images by using raytracing techniques.
 - [LinkedIn](https://www.linkedin.com/in/ram%C3%B3n-corvillo-6b5b96a1/) profile with my architect experience
 - My [website](http://ramonpunet.com/index.html)
 
+[![rpunet's 42 stats](https://badge42.herokuapp.com/api/stats/rpunet)](https://github.com/JaeSeoKim/badge42)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rpunet)](https://github.com/rpunet/github-readme-stats)
 
 <!--
